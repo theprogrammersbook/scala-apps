@@ -1,2 +1,0 @@
-
-# Git Ignore Check App
